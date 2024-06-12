@@ -1,6 +1,6 @@
 def main():
-    a = 5
-    b = 3
+    a = 300
+    b = 600
     sum = a + b
     print(sum)
 
